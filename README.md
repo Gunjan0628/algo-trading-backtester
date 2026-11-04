@@ -8,10 +8,10 @@ An interactive Power BI dashboard that backtests Moving Average crossover strate
 ![Executive Summary](screenshots/01_executive_summary.png)
 
 ### Risk Analysis
-![Risk Analysis](screenshots/02_risk_analysis.png)
+![Risk Analysis](screenshots/02_Risk_Analysis.png)
 
 ### Strategy Insights
-![Strategy Insights](screenshots/03_strategy_insights.png)
+![Strategy Insights](screenshots/03_Strategy_Insights.png)
 
 ## Tools
 Python (pandas, yfinance), Power BI Desktop, Power Query, DAX, What-If parameters, star schema data model
